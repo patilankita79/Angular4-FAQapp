@@ -42,13 +42,13 @@ Pass the question into single question-list component => Adding the input to the
 
 <br>
 
-Component - a form to add a question and answer. Output the data into the question list => Emitting output from the component using @Output
+4. <br>
+Generate Component which will be a form to add a question and answer. Output the data into the question list i.e Set the output for the question you add => Emitting output from the component using @Output
 
 ```
 ng g component components/addQuestion
 ```
 
-Set the output for the question you add
 
 <hr>
 <h3> Service </h3>
@@ -56,5 +56,6 @@ Set the output for the question you add
 ```
 ng g service services/data
 ```
-
+<hr>
+<b>Now, Implementing localStorage in the service so that these questions are stored to client machine.</b>
 
