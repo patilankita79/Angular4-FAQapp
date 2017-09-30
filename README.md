@@ -38,11 +38,11 @@ ng g component components/question
 ```
 <br>
 
-Pass the question into single question-list component => Adding the input to the component @Input()
+Pass the question into single question-list component => Adding the input to the component using @Input()
 
 <br>
 
-Component - a form to add a question and answer. Output the data into the question list => Emitting output from the component
+Component - a form to add a question and answer. Output the data into the question list => Emitting output from the component using @Output
 
 ```
 ng g component components/addQuestion
