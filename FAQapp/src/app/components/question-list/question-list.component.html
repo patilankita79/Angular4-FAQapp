@@ -1,0 +1,4 @@
+<app-add-question (questionAdded)="addQuestion($event)"></app-add-question>
+<hr>
+<!-- Passing the question from questions to question component => [question]="question" -->
+<app-question *ngFor="let question of questions" [question]="question"></app-question>
