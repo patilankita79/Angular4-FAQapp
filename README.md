@@ -3,7 +3,8 @@
 Simple form application developed in Angular 4 to add Question and answer pairs. 
 We can toggle as well as delete the questions
 Questions and answers will be pushed to or stored to localStorage. Therefore, questions will stay in the application even if we refresh the page, or leave the page and come back.
-
+<hr>
+The application is deployed on Heroku. https://faq-angular-app.herokuapp.com/
 <hr>
 <h3>Screenshots</h3>
 <img src="https://github.com/patilankita79/Angular4-FAQapp/blob/master/Screenshots/FAQapp1.png" />
