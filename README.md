@@ -5,6 +5,16 @@ We can toggle as well as delete the questions
 Questions and answers will be pushed to or stored to localStorage. Therefore, questions will stay in the application even if we refresh the page, or leave the page and come back.
 
 <hr>
+<h3>Screenshots</h3>
+<img src="https://github.com/patilankita79/Angular4-FAQapp/blob/master/Screenshots/FAQapp1.png" />
+<img src="https://github.com/patilankita79/Angular4-FAQapp/blob/master/Screenshots/FAQapp2.png" />
+<img src="https://github.com/patilankita79/Angular4-FAQapp/blob/master/Screenshots/FAQapp3.png" />
+<br>
+<h4> localStoage data</h4>
+<img src="https://github.com/patilankita79/Angular4-FAQapp/blob/master/Screenshots/localStorage.png" />
+
+
+<hr>
 Important aspects in this project
 => Nested Component [Nesting of Question component inside Question-list component]
 
