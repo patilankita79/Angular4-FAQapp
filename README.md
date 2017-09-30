@@ -56,6 +56,6 @@ ng g component components/addQuestion
 ```
 ng g service services/data
 ```
+<br>
+<b>localStorage is implemented in the service so that these questions are stored to client machine.</b>
 <hr>
-<b>Now, Implementing localStorage in the service so that these questions are stored to client machine.</b>
-
