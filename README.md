@@ -37,6 +37,19 @@ ng g component components/questionList
 ng g component components/question
 ```
 <br>
+
+Pass the question into single question-list component => Adding the input to the component @Input()
+
+<br>
+
+Component - a form to add a question and answer. Output the data into the question list => Emitting output from the component
+
+```
+ng g component components/addQuestion
+```
+
+Set the output for the question you add
+
 <hr>
 <h3> Service </h3>
 
@@ -44,5 +57,4 @@ ng g component components/question
 ng g service services/data
 ```
 
-Pass the question into single question-list component
 
