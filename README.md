@@ -21,11 +21,13 @@ Include the bootstrap path in "styles" and jquery, tether, bootstrap javascript 
 <h3>Components</h3>
 
 1. Navbar <br>
+
 ```
 ng g component components/navbar
 ```
 <br>
 2. Questionlist<br>
+
 ```
 ng g component components/questionList
 ```
@@ -37,6 +39,7 @@ ng g component components/question
 <br>
 <hr>
 <h3> Service </h3>
+
 ```
 ng g service services/data
 ```
