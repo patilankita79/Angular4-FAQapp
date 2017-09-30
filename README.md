@@ -1,6 +1,6 @@
 # Angular4-FAQapp
 
-Simple form application developed in Angular 4 to add Question and answer pairs. 
+A simple form application developed in Angular 4 to add Question and answer pairs. 
 We can toggle as well as delete the questions
 Questions and answers will be pushed to or stored to localStorage. Therefore, questions will stay in the application even if we refresh the page, or leave the page and come back.
 <hr>
