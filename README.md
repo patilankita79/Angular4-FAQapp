@@ -2,7 +2,7 @@
 
 A simple form application developed in Angular 4 to add Question and answer pairs. 
 We can toggle as well as delete the questions
-Questions and answers will be pushed to or stored to localStorage. Therefore, questions will stay in the application even if we refresh the page, or leave the page and come back. The answers to questions will be hidden by default and with the help of Show button, user can see the answer. If he wants to remove the FAQ he can make use of Remove button
+Questions and answers will be pushed to or stored to localStorage. These FAqs will be available through a service and therefore, questions will stay in the application even if we refresh the page, or leave the page and come back. The answers to questions will be hidden by default and with the help of Show button, user can see the answer. If he wants to remove the FAQ he can make use of Remove button
 <hr>
 The application is deployed on Heroku. https://faq-angular-app.herokuapp.com/
 <hr>
